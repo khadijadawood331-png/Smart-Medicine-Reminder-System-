@@ -17,4 +17,5 @@ A multidisciplinary Mechatronics project featuring customized C++ firmware and e
 * **PID-Style Non-Blocking Beep Sequence:** Uses `millis()` for buzzer alerts instead of `delay()`, ensuring the stop button triggers instantly without any hardware lag.
 * **Smart Token Anti-Repeat Mechanism:** Prevents the system from continuous loop re-triggering during the target minute once acknowledged.
 * **Low-Power Safe Architecture:** Uses internal pull-up resistor setup for the reset switch to protect the microcontroller from voltage surges.
+https://i.postimg.cc/L6kFnBb3/IMG-20260628-WA0002.jpg
 
